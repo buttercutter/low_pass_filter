@@ -9,5 +9,5 @@ Filter design is fine-tuned from chapter 5 of book 'Jia-Sheng Hong - Microstrip 
 Credit: Edaboard and eevblog forums provide help in EM simulation
 
 TODO : 
-1. Actual PCB fabrication and testing
-2. Prove the microstrip filter design math equations
+1. Actual PCB fabrication and S-Parameter testing using Vector Network Analyzer
+2. [Prove the microstrip filter design math equations](https://www.eevblog.com/forum/rf-microwave/microstrip-high-and-low-impedance-short-line-sections/)
